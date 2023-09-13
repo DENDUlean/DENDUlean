@@ -8,8 +8,9 @@ Jsem mladý ambiciózní a pracovitý junior web kodér. Mám znalosti ve HTML &
 * 🖥️ HTML / CSS / JavaScript / SASS
 * ⚛ React 
 * 💾 MySQL / MongoDB
-
-Skills: HTML / CSS / JavaScript / MySQL / Git / etc...
+* 🗃️ Git
+* 📍 PHP
+* 📜 Illustrator / Photoshop / Xd
 
 - 🔭 I’m currently working on my personal portfolio 
 - 🌱 I’m currently learning React, SASS, TypeScript, etc... 
