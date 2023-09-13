@@ -14,7 +14,7 @@ Jsem mladý ambiciózní a pracovitý junior web kodér. Mám znalosti ve HTML &
 
 ### Momentální činnost
 - 💼 Hledám práci (napište na denis.stoklas@seznam.cz)
-- 🔭 Pracuji na mém osobním portfolio 
+- 🔭 Pracuji na mém osobním portfoliu
 - 🌱 Momentálně se učím React, SASS, TypeScript, etc... 
 
 
