@@ -4,7 +4,7 @@
 
 Jsem mladý ambiciózní a pracovitý junior web kodér. Mám znalosti ve HTML & CSS, Javascript. Dokáži pracovat s balíčkem Adobe aplikací, např. illustrator, photoshop a další.  Vytvářet web je moje vášeň a momentální náplň života. 
 
-###Skills
+### Skills
 * 🖥️ HTML / CSS / JavaScript / SASS
 * ⚛ React 
 * 💾 MySQL / MongoDB
