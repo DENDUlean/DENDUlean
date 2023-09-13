@@ -1,4 +1,4 @@
-### Zdravím 🙋‍♂️, jmenuji se Denis Stoklasa ®️
+### Zdravím 🙋‍♂️, jmenuji se Denis Stoklasa
 #### a jsem Junior Frontend Developer 🖌️
 ![Junior Frontend Developer](https://github.com/DENDUlean/DENDUlean/blob/main/banner-me.png)
 
