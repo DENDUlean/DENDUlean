@@ -1,6 +1,6 @@
 ### Zdravím 🙋‍♂️, jmenuji se Denis Stoklasa
 #### a jsem Junior Frontend Developer 🖌️
-![Junior Frontend Developer]([https://github.com/DENDUlean/DENDUlean/blob/main/banner-me.png](https://github.com/DENDUlean/DENDUlean/blob/main/banner-me-1.png))
+![Junior Frontend Developer](https://github.com/DENDUlean/DENDUlean/blob/main/banner-me-1.png)
 
 Jsem mladý ambiciózní a pracovitý junior web kodér. Mám znalosti ve HTML & CSS, Javascript. Dokáži pracovat s balíčkem Adobe aplikací, např. illustrator, photoshop a další.  Vytvářet web je moje vášeň a momentální náplň života. 
 
