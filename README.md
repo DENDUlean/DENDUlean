@@ -1,6 +1,6 @@
 ### Hi there 👋, Denis Stoklasa
 #### Junior Frontend Developer
-![Junior Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Junior Frontend Developer][(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/DENDUlean/DENDUlean/blob/main/banner-me.png)
 
 Jsem mladý ambiciózní a pracovitý junior web kodér. Mám znalosti ve HTML & CSS, Javascript. Dokáži pracovat s balíčkem Adobe aplikací, např. illustrator, photoshop a další.  Vytvářet web je moje vášeň a momentální náplň života. 
 
